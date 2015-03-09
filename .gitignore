@@ -3,6 +3,8 @@
 # compiled output
 /dist
 /tmp
+/app/.DS_Store
+.DS_Store
 
 # dependencies
 /node_modules
@@ -17,3 +19,4 @@ npm-debug.log
 testem.log
 
 /public/images/*
+.divshot-cache
