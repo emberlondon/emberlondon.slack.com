@@ -11,7 +11,7 @@ export default Ember.Component.extend({
       // time before typing starts
       startDelay: 2000,
       // backspacing speed
-      backSpeed: 0,
+      backSpeed: 100,
       // time before backspacing
       backDelay: 500,
       // loop
